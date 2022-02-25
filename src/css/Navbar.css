@@ -1,0 +1,175 @@
+.navbar-container {
+  position: absolute;
+  width: 1440px;
+  height: 90px;
+  left: 0px;
+  top: 0px;
+  /* border: 1px solid red; */
+  background: #ffffff;
+}
+
+.navbar-title {
+  position: absolute;
+  width: 122px;
+  height: 29px;
+  left: 158px;
+  top: 31px;
+
+  font-family: "Sedgwick Ave", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 30px;
+  /* or 100% */
+
+  display: flex;
+  align-items: center;
+
+  color: #808080;
+}
+.item-home {
+  position: absolute;
+  width: 37px;
+  height: 14px;
+  left: 658px;
+  top: 38px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 13px;
+  /* or 100% */
+
+  display: flex;
+  align-items: center;
+
+  color: #1791a0;
+}
+
+.item-aboutus {
+  position: absolute;
+  width: 66px;
+  height: 13px;
+  left: 725px;
+  top: 38.5px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 13px;
+  /* identical to box height, or 100% */
+
+  display: flex;
+  align-items: center;
+
+  color: rgba(128, 128, 128, 0.7);
+}
+.item-newsandevents {
+  position: absolute;
+  width: 111px;
+  height: 13px;
+  left: 821px;
+  top: 38.5px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 13px;
+  /* identical to box height, or 100% */
+
+  display: flex;
+  align-items: center;
+
+  color: rgba(128, 128, 128, 0.7);
+}
+.item-gallery {
+  position: absolute;
+  width: 42px;
+  height: 13px;
+  left: 962px;
+  top: 38.5px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 13px;
+  /* identical to box height, or 100% */
+
+  display: flex;
+  align-items: center;
+
+  color: rgba(128, 128, 128, 0.7);
+}
+.item-resources {
+  position: absolute;
+  width: 73px;
+  height: 13px;
+  left: 1034px;
+  top: 38.5px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 13px;
+  /* identical to box height, or 100% */
+
+  display: flex;
+  align-items: center;
+
+  color: rgba(128, 128, 128, 0.7);
+}
+.item-projects {
+  position: absolute;
+  width: 49px;
+  height: 13px;
+  left: 1137px;
+  top: 38.5px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 13px;
+  /* identical to box height, or 100% */
+
+  display: flex;
+  align-items: center;
+
+  color: rgba(128, 128, 128, 0.7);
+}
+.item-contacts {
+  position: absolute;
+  width: 52px;
+  height: 13px;
+  left: 1216px;
+  top: 38.5px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 13px;
+  /* identical to box height, or 100% */
+
+  display: flex;
+  align-items: center;
+
+  color: rgba(128, 128, 128, 0.7);
+}
+
+.item-search {
+  position: absolute;
+  width: 20px;
+  height: 13px;
+  left: 1290px;
+  top: 38.5px;
+  color: rgba(128, 128, 128, 0.7);
+  display: flex;
+  align-items: center;
+  /* background: rgba(0, 0, 0, 0.7); */
+}
