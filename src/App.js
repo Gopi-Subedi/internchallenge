@@ -1,6 +1,7 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
 import PageOne from "./components/PageOne";
+import PageThree from "./components/PageThree";
 import PageTwo from "./components/PageTwo";
 import Splashpage from "./components/Splashpage";
 
@@ -11,6 +12,7 @@ function App() {
       <Splashpage />
       <PageOne />
       <PageTwo />
+      <PageThree />
     </div>
   );
 }
