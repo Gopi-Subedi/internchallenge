@@ -1,0 +1,135 @@
+.pfi-container {
+  position: absolute;
+  width: 1318px;
+  height: 1170px;
+  top: 5040px;
+  margin-left: 122px;
+}
+.pfi-heading {
+  display: flex;
+  padding-top: 80px;
+}
+
+.pfi-line {
+  margin-top: 10px;
+  width: 60px;
+  height: 0px;
+  border: 1px solid #1791a0;
+}
+
+.pfi-title {
+  position: absolute;
+  width: 333px;
+  height: 44px;
+  left: 76px;
+  margin-top: -10px;
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height, or 122% */
+  text-align: left;
+  color: #000000;
+}
+
+.pfi-body {
+  left: 76px;
+  margin-top: 40px;
+  position: absolute;
+  width: 498px;
+  height: 84px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  /* or 140% */
+
+  display: flex;
+  text-align: left;
+
+  color: #808080;
+}
+
+.team-members {
+  position: absolute;
+  margin-top: 124px;
+  display: flex;
+  width: 1196px;
+  height: 678px;
+  text-align: left;
+}
+
+.tm-left,
+.tm-middle,
+.tm-right {
+  width: 372px;
+  height: 618px;
+}
+.tm-middle,
+.tm-right {
+  margin-left: 40px;
+}
+.ltm-img {
+  width: 372px;
+  height: 442px;
+  background: linear-gradient(
+      180deg,
+      rgba(10, 166, 189, 0.5) 14.36%,
+      rgba(10, 166, 189, 0) 100%
+    ),
+    url('../images/tmembersimg/tm1.png');
+}
+
+.mtm-img {
+  width: 372px;
+  height: 442px;
+  background: url('../images/tmembersimg/tm2.png');
+}
+.rtm-img {
+  width: 372px;
+  height: 442px;
+  background: url('../images/tmembersimg/tm3.png');
+}
+.tm-name {
+  margin-top: 32px;
+  width: 169px;
+  height: 24px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 24px;
+  /* identical to box height, or 100% */
+
+  display: flex;
+  color: #000000;
+}
+.tm-desc {
+  margin-top: 20px;
+  width: 372px;
+  height: 48px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  display: flex;
+
+  color: #808080;
+}
+.tm-links {
+  margin-top: 19.33px;
+  color: #1791a0;
+  display: flex;
+}
+
+.tm-link-icon {
+  margin-left: 18.13px;
+}

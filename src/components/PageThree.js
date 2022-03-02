@@ -1,6 +1,6 @@
-import React from "react";
-import "../css/PageThree.css";
-import { BiChevronRightCircle } from "react-icons/bi";
+import React from 'react';
+import '../css/PageThree.css';
+import { BiChevronRightCircle } from 'react-icons/bi';
 
 function PageThree() {
   return (

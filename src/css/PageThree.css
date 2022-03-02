@@ -85,17 +85,17 @@
   height: 216px;
 
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../images/eventimg/event1.png");
+    url('../images/eventimg/event1.png');
   /* background-position: cover cover; */
 }
 
 .event2-img {
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../images/eventimg/event2.png");
+    url('../images/eventimg/event2.png');
 }
 .event3-img {
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../images/eventimg/event3.png");
+    url('../images/eventimg/event3.png');
 }
 .event-calender {
   width: 54px;
@@ -276,19 +276,19 @@
   height: 226px;
 
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../images/pasteventimg/pstevent1.png");
+    url('../images/pasteventimg/pstevent1.png');
 }
 .pst-evnt-img2 {
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../images/pasteventimg/pstevent2.png");
+    url('../images/pasteventimg/pstevent2.png');
 }
 .pst-evnt-img3 {
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../images/pasteventimg/pstevent3.png");
+    url('../images/pasteventimg/pstevent3.png');
 }
 .pst-evnt-img4 {
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../images/pasteventimg/pstevent4.png");
+    url('../images/pasteventimg/pstevent4.png');
 }
 .pst-evnt-title {
   position: absolute;
