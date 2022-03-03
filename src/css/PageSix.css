@@ -1,0 +1,140 @@
+.ps-container {
+  position: absolute;
+  width: 1318px;
+  height: 770px;
+  left: 0px;
+  top: 5920px;
+  margin-left: 122px;
+  background: #f8f8f8;
+  text-align: left;
+  display: flex;
+}
+.ps-left {
+  display: flex;
+  margin-top: 80px;
+  flex-flow: column;
+  /* margin-left: 122px; */
+  width: 584px;
+}
+.ps-right {
+  width: 584px;
+  margin-left: 48px;
+  margin-top: 150px;
+}
+
+.ps-line {
+  margin-top: 10px;
+  width: 60px;
+  height: 0px;
+  border: 1px solid #1791a0;
+}
+
+.ps-title {
+  position: absolute;
+  width: 233px;
+  height: 44px;
+  margin-left: 76px;
+  margin-top: -10px;
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height, or 122% */
+  text-align: left;
+  color: #000000;
+}
+
+.ps-text {
+  width: 498px;
+  height: 112px;
+  margin-top: 20px;
+  margin-left: 76px;
+
+  text-align: left;
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  /* or 140% */
+
+  display: flex;
+  align-items: center;
+
+  color: #808080;
+}
+
+.ps-gallery1 {
+  height: 475px;
+  width: 566px;
+}
+
+.gallery-img1,
+.gallery-img2 {
+  width: 566px;
+  height: 475px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('../images/galleryimg/gallery1.png');
+}
+.gallery-img2 {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('../images/galleryimg/gallery2.png');
+}
+
+.gallery-content {
+  padding-top: 163.5px;
+  padding-left: 61.13px;
+}
+.gallery-time {
+  width: 180px;
+  height: 20px;
+  color: #ffffff;
+}
+.ps-clock-time {
+  margin-left: 12.45px;
+}
+
+.gallery-title {
+  width: 456px;
+  height: 76px;
+  margin-top: 9.5px;
+  margin-bottom: 26.5px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 38px;
+  /* or 127% */
+
+  display: flex;
+
+  color: #ffffff;
+}
+.gallery-footer {
+  /* display: flex; */
+  color: #ffffff;
+}
+.ps-icon-right {
+  color: #0aa6bd;
+}
+.ps-footer-text {
+  width: 111px;
+  height: 16px;
+  margin-left: 8px;
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 16px;
+  /* identical to box height, or 100% */
+
+  color: #ffffff;
+}
+.ps-right-footer {
+  margin-top: 50px;
+}
+.ps-right-footer > .ps-footer-text {
+  color: #000000;
+}

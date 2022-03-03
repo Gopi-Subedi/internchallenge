@@ -1,7 +1,7 @@
 .pth-container {
   position: absolute;
   width: 1318px;
-  height: 1170px;
+  height: 1180px;
   top: 2680px;
   margin-left: 122px;
 }
@@ -35,7 +35,7 @@
 
 .pth-body {
   left: 76px;
-  margin-top: 20px;
+  margin-top: 40px;
   position: absolute;
   width: 498px;
   height: 84px;
@@ -54,7 +54,7 @@
 }
 
 .pth-events {
-  margin-top: 138px;
+  margin-top: 155px;
   height: 458px;
   display: flex;
 }

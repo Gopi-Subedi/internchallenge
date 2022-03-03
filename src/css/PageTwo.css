@@ -1,7 +1,7 @@
 .pagetwo-container {
   position: absolute;
   width: 1440px;
-  height: 1250px;
+  height: 1270px;
   left: 0px;
   top: 1342px;
   padding-top: 80px;
@@ -47,7 +47,7 @@
   /* position: absolute; */
   width: 498px;
   height: 112px;
-  margin-top: 25px;
+  margin-top: 40px;
   margin-left: 76px;
 
   text-align: left;
@@ -75,19 +75,19 @@
 }
 
 .pt-project1 {
-  background: url("../images/projectimg/project1.png");
+  background: url('../images/projectimg/project1.png');
 }
 
 .pt-project2 {
-  background: url("../images/projectimg/project2.png");
+  background: url('../images/projectimg/project2.png');
 }
 
 .pt-project3 {
-  margin-top: 35px;
-  background: url("../images/projectimg/project3.png");
+  margin-top: 55px;
+  background: url('../images/projectimg/project3.png');
 }
 .pt-project4 {
-  background: url("../images/projectimg/project4.png");
+  background: url('../images/projectimg/project4.png');
 }
 .icon-plus {
   float: left;
